@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:52:02.097951
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:46
 #+TITLE: 議中興教觀
 #+PROPERTY: CBETA_ID X57n0959
 #+PROPERTY: ID KR6d0235
